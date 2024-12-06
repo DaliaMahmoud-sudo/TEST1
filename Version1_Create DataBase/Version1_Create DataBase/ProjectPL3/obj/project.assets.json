@@ -157,11 +157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\4.1 college\\New folder\\Version1_Create DataBase\\ProjectPL3\\ProjectPL3.fsproj",
+      "projectUniqueName": "C:\\Users\\amrab\\github\\TEST1\\Version1_Create DataBase\\Version1_Create DataBase\\ProjectPL3\\ProjectPL3.fsproj",
       "projectName": "ProjectPL3",
-      "projectPath": "D:\\4.1 college\\New folder\\Version1_Create DataBase\\ProjectPL3\\ProjectPL3.fsproj",
+      "projectPath": "C:\\Users\\amrab\\github\\TEST1\\Version1_Create DataBase\\Version1_Create DataBase\\ProjectPL3\\ProjectPL3.fsproj",
       "packagesPath": "C:\\Users\\amrab\\.nuget\\packages\\",
-      "outputPath": "D:\\4.1 college\\New folder\\Version1_Create DataBase\\ProjectPL3\\obj\\",
+      "outputPath": "C:\\Users\\amrab\\github\\TEST1\\Version1_Create DataBase\\Version1_Create DataBase\\ProjectPL3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\amrab\\AppData\\Roaming\\NuGet\\NuGet.Config",

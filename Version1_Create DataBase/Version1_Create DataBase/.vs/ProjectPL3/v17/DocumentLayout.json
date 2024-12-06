@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\amrab\\github\\TEST1\\Version1_Create DataBase\\Version1_Create DataBase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D0281-63D2-409E-90F9-0F8C98504739}|ProjectPL3\\ProjectPL3.fsproj|c:\\users\\amrab\\github\\test1\\version1_create database\\version1_create database\\projectpl3\\studentsdb.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{A06D0281-63D2-409E-90F9-0F8C98504739}|ProjectPL3\\ProjectPL3.fsproj|solutionrelative:projectpl3\\studentsdb.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06D0281-63D2-409E-90F9-0F8C98504739}|ProjectPL3\\ProjectPL3.fsproj|c:\\users\\amrab\\github\\test1\\version1_create database\\version1_create database\\projectpl3\\models.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}",
+      "RelativeMoniker": "D:0:0:{A06D0281-63D2-409E-90F9-0F8C98504739}|ProjectPL3\\ProjectPL3.fsproj|solutionrelative:projectpl3\\models.fs||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsDb.fs",
+              "DocumentMoniker": "C:\\Users\\amrab\\github\\TEST1\\Version1_Create DataBase\\Version1_Create DataBase\\ProjectPL3\\StudentsDb.fs",
+              "RelativeDocumentMoniker": "ProjectPL3\\StudentsDb.fs",
+              "ToolTip": "C:\\Users\\amrab\\github\\TEST1\\Version1_Create DataBase\\Version1_Create DataBase\\ProjectPL3\\StudentsDb.fs",
+              "RelativeToolTip": "ProjectPL3\\StudentsDb.fs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-06T17:51:30.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.fs",
+              "DocumentMoniker": "C:\\Users\\amrab\\github\\TEST1\\Version1_Create DataBase\\Version1_Create DataBase\\ProjectPL3\\Models.fs",
+              "RelativeDocumentMoniker": "ProjectPL3\\Models.fs",
+              "ToolTip": "C:\\Users\\amrab\\github\\TEST1\\Version1_Create DataBase\\Version1_Create DataBase\\ProjectPL3\\Models.fs",
+              "RelativeToolTip": "ProjectPL3\\Models.fs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-06T17:51:24.346Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
